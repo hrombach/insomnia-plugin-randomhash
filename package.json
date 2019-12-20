@@ -1,0 +1,11 @@
+{
+  "name": "insomna-plugin-randomhash",
+  "version": "1.0.0",
+  "main": "plugin.js",
+  "insomnia": {
+    "name": "randomhash",
+    "description": "Random Hash"
+  },
+  "dependencies": [],
+  "devDependencies": []
+}
